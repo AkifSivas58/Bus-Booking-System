@@ -3,12 +3,4 @@ This project is a Bus Booking System where various commands allow you to manage 
 
 This assignment was part of my coursework in Computer Engineering.
 
-Features
-Initialize bus voyages
-Sell tickets to passengers
-Refund tickets
-Check available seats
-View voyage details
-And more...
-
 For a full explanation of the commands, system flow, and usage details, please refer to the instructions PDF.
